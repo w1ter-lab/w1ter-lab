@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 I am a novice programmer, working with codes such as: Lua and PHP.
+💻 I am a novice programmer, working with codes such as: PHP, Lua, HTML, CSS (A little bit), JavaScript (A little bit).
 
 
 ## 🌐 Socials:
