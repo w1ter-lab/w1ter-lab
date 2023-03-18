@@ -23,7 +23,7 @@ I am a Novice Programmer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 - :telescope: Studying technical content writing.
 
-- :mailbox: To contact me, add me on discord - Khalid Kashmiri#9682.
+- :mailbox: To contact me, add me on discord - sh1n#9682.
 
 ---
 
